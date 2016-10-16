@@ -1,0 +1,17 @@
+---
+tf_mirror: https://storage.googleapis.com/tensorflow
+
+# linux or mac
+tf_os : linux
+
+# cpu or gpu
+tf_processor: cpu
+
+tf_ver: '0.11.0rc0'
+
+# Python 2.7: cp27-none, py2-none
+# Python 3: py3-none, cp34-cp34m, cp35-cp35m
+tf_pyver: cp27-none
+
+# any or linux_x86_64
+tf_platform: linux_x86_64

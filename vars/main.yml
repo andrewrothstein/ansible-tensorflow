@@ -1,0 +1,2 @@
+---
+tf_binary_url: '{{tf_mirror}}/{{tf_os}}/{{tf_processor}}/tensorflow-{{tf_ver}}-{{tf_pyver}}-{{tf_platform}}.whl'
